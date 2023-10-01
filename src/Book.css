@@ -1,0 +1,92 @@
+.book-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.875);
+  }
+  
+  .book-title {
+    font-size: 1.5rem;
+    margin: 0;
+    color: #333;
+  }
+  
+  .book-author {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .book-description {
+    font-size: 1rem;
+    color: #777;
+    margin-top: 10px;
+  }
+  
+  .reviews-container {
+    margin-top: 20px;
+  }
+  
+  .review-form {
+    margin-top: 20px;
+  }
+  
+  .review-form h3 {
+    font-size: 1.2rem;
+    margin: 0 0 10px;
+    color: #333;
+  }
+  
+  .review-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .review-form input[type="number"] {
+    width: 50px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .review-form textarea {
+    width: 100%;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .review-form button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .review-form button[type="submit"]:hover {
+    background-color: #1bb300; 
+  }
+  
+  .review-list {
+    margin-top: 20px;
+  }
+  
+  .review {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .review p {
+    margin: 5px 0;
+  }
+  

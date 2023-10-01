@@ -1,0 +1,19 @@
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .loading {
+    font-size: 28px;
+    font-weight: bold;
+    color: #007bff; 
+  }
+  
+  .error {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ff0000; 
+  }
+  
